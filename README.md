@@ -42,14 +42,15 @@ ports:
 sudo docker-compose up -d
 ```
 # Web Interface
-# We enter the device's IP address in the browser and it will automatically redirect us.
+<h2>We enter the device's IP address in the browser and it will automatically redirect us.</h2> 
+<h2> The default username and password are:</h2>
 
-# The default username and password are:
-
-# admin
-# admin
+<h3>
+admin
+admin   
+</h3> 
 
 # The agent download page
-```
-https://ocsinventory-ng.org/?page_id=1548&lang=en
-```
+
+<h2 >https://ocsinventory-ng.org/?page_id=1548&lang=en
+</h2>
