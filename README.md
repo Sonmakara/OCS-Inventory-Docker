@@ -39,7 +39,11 @@ ports:
 # Run container
 
 ```
-sudo docker-compose up -d
+sudo docker compose up -d
+```
+
+```
+sudo docker ps
 ```
 # Web Interface
 <h2>We enter the device's IP address in the browser and it will automatically redirect us.</h2> 
